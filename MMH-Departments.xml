@@ -4,22 +4,18 @@
         <Name>Dept Sales &amp; Finance</Name>
         <Telephone>2020</Telephone>
     </DirectoryEntry>
-
     <DirectoryEntry>
         <Name>Dept Sales Managers</Name>
         <Telephone>2021</Telephone>
     </DirectoryEntry>
-
     <DirectoryEntry>
         <Name>Dept Service &amp; Scheduler</Name>
         <Telephone>2022</Telephone>
     </DirectoryEntry>
-
     <DirectoryEntry>
         <Name>Dept Parts</Name>
         <Telephone>2023</Telephone>
     </DirectoryEntry>
-
     <DirectoryEntry>
         <Name>Dept Accounting</Name>
         <Telephone>2024</Telephone>
