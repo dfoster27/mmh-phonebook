@@ -1,23 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneDirectory>
+    <Title>MMH Groups</Title>
+
     <DirectoryEntry>
-        <Name>Dept Sales &amp; Finance</Name>
-        <Telephone>2020</Telephone>
+        <Name>Service BDC</Name>
+        <Telephone>1001</Telephone>
     </DirectoryEntry>
+
     <DirectoryEntry>
-        <Name>Dept Sales Managers</Name>
-        <Telephone>2021</Telephone>
+        <Name>Service Lane &amp; BDC</Name>
+        <Telephone>1002</Telephone>
     </DirectoryEntry>
+
     <DirectoryEntry>
-        <Name>Dept Service &amp; Scheduler</Name>
-        <Telephone>2022</Telephone>
+        <Name>Service Lane</Name>
+        <Telephone>1003</Telephone>
     </DirectoryEntry>
+
     <DirectoryEntry>
-        <Name>Dept Parts</Name>
-        <Telephone>2023</Telephone>
+        <Name>Recall BDC</Name>
+        <Telephone>1004</Telephone>
     </DirectoryEntry>
+
     <DirectoryEntry>
-        <Name>Office &amp; Admin</Name>
-        <Telephone>2024</Telephone>
+        <Name>Sales Floor</Name>
+        <Telephone>2001</Telephone>
     </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Internet Sales</Name>
+        <Telephone>2003</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Sales Desk</Name>
+        <Telephone>2006</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Parts</Name>
+        <Telephone>3001</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Finance</Name>
+        <Telephone>4001</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Accounting</Name>
+        <Telephone>5001</Telephone>
+    </DirectoryEntry>
+
 </YealinkIPPhoneDirectory>
